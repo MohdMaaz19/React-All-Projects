@@ -1,0 +1,9 @@
+#star{
+  display: flex;
+  justify-content: center;
+  
+}
+
+.black{
+  background-color: black;
+}
